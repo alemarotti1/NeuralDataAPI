@@ -1,0 +1,1 @@
+Esta biblioteca oferece a funcionalidade necessária para interagir com dados neuronais no formato kwik.
